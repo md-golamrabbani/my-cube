@@ -1,9 +1,9 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:travel/config/session.dart';
-import 'package:travel/config/url.dart';
-import 'package:travel/utils/dimensions_utils.dart';
-import 'package:travel/utils/rgb_utils.dart';
+import 'package:mcapp/config/session.dart';
+import 'package:mcapp/config/url.dart';
+import 'package:mcapp/utils/dimensions_utils.dart';
+import 'package:mcapp/utils/rgb_utils.dart';
 
 class HomeStatusScreen extends StatefulWidget {
   const HomeStatusScreen({super.key});

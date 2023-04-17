@@ -1,4 +1,4 @@
-import 'package:travel/models/car_model.dart';
+import 'package:mcapp/models/car_model.dart';
 
 List carData = [
   CarModel(

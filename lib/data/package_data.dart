@@ -1,4 +1,4 @@
-import 'package:travel/models/package_model.dart';
+import 'package:mcapp/models/package_model.dart';
 
 List packageData = [
   PackageModel(

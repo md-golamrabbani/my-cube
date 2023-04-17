@@ -1,4 +1,4 @@
-# simple_app
+# mcapp
 
 A new Flutter project.
 

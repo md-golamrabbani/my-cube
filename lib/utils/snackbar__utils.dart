@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:travel/utils/dimensions_utils.dart';
-import 'package:travel/utils/rgb_utils.dart';
-import 'package:travel/utils/navigator_key.dart';
+import 'package:mcapp/utils/dimensions_utils.dart';
+import 'package:mcapp/utils/rgb_utils.dart';
+import 'package:mcapp/utils/navigator_key.dart';
 
 class SnackBarUtils {
   static ScaffoldFeatureController<SnackBar, SnackBarClosedReason> show(

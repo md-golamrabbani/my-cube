@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:get/get.dart';
-import 'package:travel/routes/routes.dart';
-import 'package:travel/theme/light_theme.dart';
-import 'package:travel/utils/navigator_key.dart';
+import 'package:mcapp/routes/routes.dart';
+import 'package:mcapp/theme/light_theme.dart';
+import 'package:mcapp/utils/navigator_key.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

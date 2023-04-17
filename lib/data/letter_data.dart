@@ -1,4 +1,4 @@
-import 'package:travel/models/letter_model.dart';
+import 'package:mcapp/models/letter_model.dart';
 
 List letterData = [
   LetterModel(

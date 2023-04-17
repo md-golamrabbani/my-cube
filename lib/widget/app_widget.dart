@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
-import 'package:travel/utils/dimensions_utils.dart';
-import 'package:travel/utils/rgb_utils.dart';
+import 'package:mcapp/utils/dimensions_utils.dart';
+import 'package:mcapp/utils/rgb_utils.dart';
 import 'package:unicons/unicons.dart';
 
 class AppWidget {

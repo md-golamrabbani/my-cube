@@ -2,9 +2,9 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:travel/theme/color_scheme_theme.dart';
-import 'package:travel/utils/dimensions_utils.dart';
-import 'package:travel/utils/rgb_utils.dart';
+import 'package:mcapp/theme/color_scheme_theme.dart';
+import 'package:mcapp/utils/dimensions_utils.dart';
+import 'package:mcapp/utils/rgb_utils.dart';
 
 class LightTheme {
   static var systemUI = SystemChrome.setSystemUIOverlayStyle(

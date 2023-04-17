@@ -1,13 +1,13 @@
 import 'package:get/get.dart';
-import 'package:travel/screens/auth/login_screen.dart';
-import 'package:travel/screens/customer_add_screen.dart';
-import 'package:travel/screens/customer_details_screen.dart';
-import 'package:travel/screens/customer_list_screen.dart';
-import 'package:travel/screens/order_add_screen.dart';
-import 'package:travel/screens/order_details_screen.dart';
-import 'package:travel/screens/product_list_screen.dart';
-import 'package:travel/screens/home_screen.dart';
-import 'package:travel/screens/splash_screen.dart';
+import 'package:mcapp/screens/auth/login_screen.dart';
+import 'package:mcapp/screens/customer_add_screen.dart';
+import 'package:mcapp/screens/customer_details_screen.dart';
+import 'package:mcapp/screens/customer_list_screen.dart';
+import 'package:mcapp/screens/order_add_screen.dart';
+import 'package:mcapp/screens/order_details_screen.dart';
+import 'package:mcapp/screens/product_list_screen.dart';
+import 'package:mcapp/screens/home_screen.dart';
+import 'package:mcapp/screens/splash_screen.dart';
 
 class Routes {
   static final routes = [

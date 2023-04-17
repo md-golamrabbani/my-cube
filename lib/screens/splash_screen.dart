@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import 'package:travel/config/session.dart';
+import 'package:mcapp/config/session.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

@@ -1,4 +1,4 @@
-import 'package:travel/models/hotel_model.dart';
+import 'package:mcapp/models/hotel_model.dart';
 
 List hotelData = [
   HotelModel(

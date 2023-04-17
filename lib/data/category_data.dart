@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel/models/category_model.dart';
+import 'package:mcapp/models/category_model.dart';
 
 List categoryData = [
   CategoryModel(

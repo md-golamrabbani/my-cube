@@ -1,4 +1,4 @@
-import 'package:travel/models/country_code_model.dart';
+import 'package:mcapp/models/country_code_model.dart';
 
 List countryData = [
   CountryCodeModel(
